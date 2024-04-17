@@ -176,6 +176,8 @@ export(vannomap)
 export(which_annotation)
 export(wilcoxtest)
 export(x2y)
+export(split_by_sample_names)
+
 importFrom(AnnotationDbi,keys)
 importFrom(AnnotationDbi,mapIds)
 importFrom(AnnotationDbi,select)
